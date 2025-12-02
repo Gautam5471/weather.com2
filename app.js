@@ -33,7 +33,7 @@ async function getWeather() {
         resultEl.innerHTML = `
           <h3>${city.toUpperCase()}</h3>
           <p>🌡️ temperature ${temp}°C</p>
-          <p>💨 Air quality ${current.windspeed.toFixed(0)} km/h</p>
+          <p>💨 Air speed ${current.windspeed.toFixed(0)} km/h</p>
           <p>🌤️  sun quality ${getWeatherIcon(current.weathercode)}</p>
         `;
         
