@@ -3,7 +3,7 @@ body {
       max-width: 400px; 
       margin: 50px auto; 
       padding: 20px; 
-      background: linear-gradient(135deg, lightblue, rgb(51, 199, 207) 100%);
+      background: linear-gradient(135deg, lightyellow, rgb(51, 199, 207) 100%);
       color: white;
     }
     input { 
