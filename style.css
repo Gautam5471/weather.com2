@@ -19,6 +19,11 @@ body {
       color:black; 
       cursor: pointer;
     }
+    #glass{
+      padding: 40px;
+      background: rgba(255,255,255,0.3);
+      border-radius: 5px;
+    }
     #result { 
       margin-top: 20px; 
       padding: 20px; 
